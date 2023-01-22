@@ -37,9 +37,6 @@ I'm currently building my portfolio and expanding my skillset. I'm a strong comm
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
